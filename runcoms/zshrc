@@ -12,4 +12,6 @@ fi
 
 # Customize to your needs...
 
+plugins=(colored-man-pages)
+
 source ~/src/config/env.sh
