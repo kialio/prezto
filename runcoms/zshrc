@@ -12,6 +12,6 @@ fi
 
 # Customize to your needs...
 
-plugins=(colored-man-pages)
+plugins=(git colored-man-pages colorize)
 
 source ~/src/config/env.sh
