@@ -15,3 +15,5 @@ fi
 plugins=(git colored-man-pages colorize)
 
 source ~/src/config/env.sh
+
+alias jpn='jupyter-notebook'
